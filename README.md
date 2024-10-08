@@ -34,6 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JoaoVitorCarottaRibeiro/JoaoVitorCarottaRibeiro/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JoaoVitorCarottaRibeiro/JoaoVitorCarottaRibeiro/refs/heads/main/snake.svg" />
 
 ###
