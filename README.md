@@ -5,9 +5,8 @@
 ###
 <div align="left">
   <h1>Contatos</h1>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://www.linkedin.com/in/jo%C3%A3o-vitor-carotta-ribeiro-3602ab230/" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://www.instagram.com/joaovcarotta/" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
