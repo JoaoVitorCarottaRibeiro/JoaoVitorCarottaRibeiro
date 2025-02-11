@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-carotta-ribeiro-3602ab230/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo">
   </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-carotta-ribeiro-3602ab230/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo">
+  </a>
 </div>
 
 ###
