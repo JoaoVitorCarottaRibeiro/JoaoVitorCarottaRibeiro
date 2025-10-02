@@ -1,7 +1,3 @@
-<div align="left">
-  <p>Olá me chamo João Vitor Carotta Ribeiro, estou cursando Engenharia de Software na FIAP, atualmente estou no terceiro semestre do curso, tenho mais contato com o front-end mas também possuo conhecimentos sobre o back-end.</p>
-</div>
-
 ###
 <div align="left">
   <h1>Contatos</h1>
