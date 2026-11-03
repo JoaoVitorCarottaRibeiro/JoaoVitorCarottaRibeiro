@@ -32,9 +32,8 @@
 user:       João Vitor Carotta Ribeiro
 role:       Student & Developer
 school:     FIAP
-focus:      Full Stack | Python | Data
-mindset:    Curiosity > Perfection
-status:     Always evolving ⚡
+focus:      Full Stack | Python | Data | AI
+status:     Always evolving
 ```
 
 </td>
@@ -96,7 +95,7 @@ status:     Always evolving ⚡
 
 </div>
 
-## `>` 08 // CONTRIBUTION SNAKE
+## `>` 04 // CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -104,7 +103,7 @@ status:     Always evolving ⚡
 
 </div>
 
-## `>` 09 // CONNECT WITH ME
+## `>` 05 // CONNECT WITH ME
 
 <div align="center">
 
