@@ -6,13 +6,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:6D28D9,70:06B6D4,100:0D1117&height=220&section=header&text=João%20Vitor%20Carotta&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=//%20SYSTEM%20BOOT%20COMPLETE%20//%20WELCOME%20TO%20MY%20PROFILE&descAlignY=60&descSize=16&animation=fadeIn" alt="header"/>
 
-```ansi
-[0;36m[ BOOT ][0m Inicializando núcleo neural......... [0;32mOK[0m
-[0;36m[ BOOT ][0m Carregando módulos de desenvolvimento [0;32mOK[0m
-[0;36m[ BOOT ][0m Conectando repositórios............. [0;32mOK[0m
-[0;36m[ BOOT ][0m Interface pronta.................... [0;35mONLINE[0m
-```
-
 <a href="https://github.com/JoaoVitorCarottaRibeiro">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o+%7C+FIAP;Full+Stack+%26+Python+Enthusiast;Transformando+ideias+em+c%C3%B3digo;Sempre+aprendendo+algo+novo+%E2%9A%A1" alt="Typing SVG" />
 </a>
@@ -110,44 +103,6 @@ status:         Em constante evolução ⚡
 
 </div>
 
-## `>` 04 // PROJETOS EM DESTAQUE
-
-> ⚙️ **Dica:** troque `REPO-1`, `REPO-2`... pelos nomes reais dos seus repositórios.
-
-<div align="center">
-
-<a href="https://github.com/JoaoVitorCarottaRibeiro/REPO-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVitorCarottaRibeiro&repo=REPO-1&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9" alt="Projeto 1" />
-</a>
-<a href="https://github.com/JoaoVitorCarottaRibeiro/REPO-2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVitorCarottaRibeiro&repo=REPO-2&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9" alt="Projeto 2" />
-</a>
-
-<a href="https://github.com/JoaoVitorCarottaRibeiro/REPO-3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVitorCarottaRibeiro&repo=REPO-3&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9" alt="Projeto 3" />
-</a>
-<a href="https://github.com/JoaoVitorCarottaRibeiro/REPO-4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVitorCarottaRibeiro&repo=REPO-4&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9" alt="Projeto 4" />
-</a>
-
-</div>
-
-## `>` 05 // OBJETIVOS ATUAIS
-
-```bash
-joao@jarvis:~$ cat objetivos_2026.log
-
-[ ✔ ] Dominar fundamentos de Front-end (HTML, CSS, JS)
-[ ⏳ ] Aprofundar em React e ecossistema moderno
-[ ⏳ ] Evoluir em Python para Dados & Automação
-[ ⏳ ] Construir portfólio de projetos reais
-[ ◻ ] Contribuir em projetos Open Source
-[ ◻ ] Conquistar primeira experiência profissional em tech
-
-joao@jarvis:~$ status --mindset
-> "Cada linha de código é um passo adiante." ⚡
-```
-
 ## `>` 06 // MÉTRICAS DO SISTEMA
 
 <div align="center">
@@ -164,14 +119,6 @@ joao@jarvis:~$ status --mindset
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVitorCarottaRibeiro&bg_color=0D1117&color=06B6D4&line=6D28D9&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-
-</div>
-
-## `>` 07 // CONQUISTAS
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=JoaoVitorCarottaRibeiro&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 
 </div>
 
@@ -205,10 +152,6 @@ joao@jarvis:~$ status --mindset
 <br/>
 
 <div align="center">
-
-```ansi
-[0;35m[ SYSTEM ][0m Sessão encerrada. Obrigado pela visita. [0;36m<3[0m
-```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:06B6D4,70:6D28D9,100:0D1117&height=140&section=footer&text=Obrigado%20por%20visitar!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer"/>
 
