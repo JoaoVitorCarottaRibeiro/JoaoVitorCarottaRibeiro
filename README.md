@@ -33,11 +33,6 @@ mindset:        Curiosidade > Perfeição
 status:         Em constante evolução ⚡
 ```
 
-- 🎓  Estudante de tecnologia na **FIAP**
-- 💻  Desenvolvo com foco em **Front-end, Python e Dados**
-- 🚀  Movido por **projetos que resolvem problemas reais**
-- 🧠  Aprendendo **todos os dias** algo novo
-- 🤝  Aberto a **colaborações e novas conexões**
 
 <br clear="right"/>
 
@@ -100,25 +95,6 @@ status:         Em constante evolução ⚡
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma" />
 <img width="14" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs" />
-
-</div>
-
-## `>` 06 // MÉTRICAS DO SISTEMA
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorCarottaRibeiro&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9&text_color=c9d1d9&count_private=true" alt="github stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVitorCarottaRibeiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=06B6D4&text_color=c9d1d9&order=2" alt="top langs" />
-
-<br/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVitorCarottaRibeiro&theme=tokyonight&hide_border=false&background=0D1117&stroke=6D28D9&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="streak" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVitorCarottaRibeiro&bg_color=0D1117&color=06B6D4&line=6D28D9&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
 </div>
 
