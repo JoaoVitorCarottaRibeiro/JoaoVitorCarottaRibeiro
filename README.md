@@ -32,9 +32,7 @@
 user:       João Vitor Carotta Ribeiro
 role:       Student & Developer
 school:     FIAP
-focus:      Full Stack | Python | Data
-mindset:    Curiosity > Perfection
-status:     Always evolving ⚡
+focus:      Full Stack | Python | Data | AI
 ```
 
 </td>
